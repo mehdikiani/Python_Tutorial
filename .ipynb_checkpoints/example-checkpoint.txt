@@ -1,0 +1,3 @@
+This is an example text file.
+This is the second line text.
+This is another text.
