@@ -47,7 +47,7 @@ This repository contains 10 well-structured notebooks, each focusing on a specif
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/python-tutorials.git
+git clone https://github.com/mehdikiani/Python_Tutorial.git
 cd python-tutorials
 ```
 
